@@ -14,8 +14,8 @@ DROP TABLE IF EXISTS flight;
 DROP TABLE IF EXISTS bus_trip;
 DROP TABLE IF EXISTS cabin;
 DROP TABLE IF EXISTS coach_train_ticket;
-DROP TABLE IF EXISTS compartment_train_trip;	/*سفر ریلی کوپه ای*/
-DROP TABLE IF EXISTS coach_train_trip;			/*سفر ریلی اتوبوسی*/
+DROP TABLE IF EXISTS compartment_train_trip;	
+DROP TABLE IF EXISTS coach_train_trip;			
 DROP TABLE IF EXISTS hotel_comments;
 DROP TABLE IF EXISTS discount;
 DROP TABLE IF EXISTS protector;
