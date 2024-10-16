@@ -30,8 +30,3 @@ The SQL scripts provided in this repository cover:
 - Creating the database schema with all necessary tables and relationships.
 - Populating the database with sample data to simulate real-world use cases.
 - Queries to handle common operations such as creating new bookings, processing payments, and retrieving service availability.
-
-## How to Use
-1. Clone the repository.
-2. Import the SQL scripts into your preferred database management system.
-3. Run the provided sample queries to interact with the database.
